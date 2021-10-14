@@ -491,8 +491,7 @@
                             twitch: {
                                 options: {
                                     autoplay: !0,
-                                    muted: !1,
-                                    parent: ["tokyodrift.sytes.net"]
+                                    muted: !1
                                 }
                             }
                         }
