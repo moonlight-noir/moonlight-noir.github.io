@@ -143,7 +143,7 @@
                 (this, (t.__proto__ || Object.getPrototypeOf(t)).call(this, e));
                 return n.state = 
                 {
-                        url: "http://213.136.81.165/relay-server/index.html",
+                        url: "https://moonlight-noir.github.io",
                         resourceName: "ls-test",
                         previousHost: "",
                         poster: "https://cdn.discordapp.com/attachments/719998114953691237/898605191660716072/td_cover.jpg",
